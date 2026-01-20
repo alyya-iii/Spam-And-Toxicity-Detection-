@@ -15,9 +15,13 @@ src/
 └── spam/
 
 ├── analyzer/ # Spam detection logic
+
 ├── database/ # Message storage
+
 ├── main/ # Application entry point
+
 ├── message/ # Message model
+
 └── swing/ # UI components
 
 ## How to Run
