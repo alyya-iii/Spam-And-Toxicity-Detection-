@@ -13,6 +13,7 @@ The project analyzes text messages and classifies them as spam or non-spam.
 ## Project Structure
 src/
 └── spam/
+
 ├── analyzer/ # Spam detection logic
 ├── database/ # Message storage
 ├── main/ # Application entry point
