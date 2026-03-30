@@ -48,11 +48,7 @@ src/
 - Click **Start Import**
 
 ## Technologies Used
-Programming Language:
-- Java
-Database:
-- MySQL
-Tools:
-- IntelliJ IDEA
-Technologies:
-- JDBC (Java Database Connectivity)
+- Programming Language: Java
+- Database: MySQL
+- Tools: IntelliJ IDEA
+- Technologies: JDBC (Java Database Connectivity)
